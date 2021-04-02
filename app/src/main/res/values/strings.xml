@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <!--string res of layout
+    name hint text -->
+    <string name="name">Name</string>
+    <string name="toppings">toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="quantity_text">1</string>
+    <string name="order">Order</string>
+    <!--string res of java file-->
+    <string name="email_sub">Coffee order for <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="increment_toast">Way too much coffee, Can\'t go beyond 15</string>
+    <string name="decrement_toast">Can\'t go below 1"</string>
+    <string name="order_summary_name">Name: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="order_summary_whippedcream">\nWhipped cream added</string>
+    <string name="order_summary_chocolate">\nChocolate added</string>
+    <string name="order_summary_quantity">\nQuantity: <xliff:g example="1" id="quantity">%d</xliff:g> </string>
+    <string name="order_summary_price">\nTotal price: <xliff:g example="20₹" id="price">%s</xliff:g>₹\nThank you!</string>
+
+</resources>
